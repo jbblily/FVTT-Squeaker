@@ -11,7 +11,11 @@
     "maximum": 11
   },
   "authors": [
-    {"name":"U~man"},{"name":"Crownel(jbblily)"}
+    {
+      "name": "Crownel",
+      "url": "https://github.com/jbblily",
+      "discord": "Crownel#4367"
+    }
   ],
   "relationships": {
     "systems": [],
